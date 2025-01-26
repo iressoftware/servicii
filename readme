@@ -1,0 +1,7 @@
+echo „# iressoftware” >> README.md 
+git init 
+git add README.md 
+git commit -m „prima comitere” 
+git branch -M principal 
+git remote adaugă origine https://github.com/iressoftware/iressoftware.git
+ git push - u origine principal
